@@ -1,6 +1,6 @@
 # Olá, eu sou o Mike Araujo Costa 👋
 
-Desenvolvo **apps e automações que tiram trabalho repetitivo das pessoas**. Hoje faço isso como estagiário de tecnologia no **Tayah Advogados** (Rio de Janeiro). Lá, transformei tarefas que tomavam horas da equipe em ferramentas que rodam sozinhas, sempre cuidando da segurança dos dados dos clientes (LGPD).
+Desenvolvo **apps e automações que tiram trabalho repetitivo das pessoas**. Hoje faço isso como **estagiário de tecnologia num escritório de advocacia** no Rio de Janeiro. Lá, transformei tarefas que tomavam horas da equipe em ferramentas que rodam sozinhas, sempre cuidando da segurança dos dados dos clientes (LGPD).
 
 - 📱 Criei do zero um **app Android e web** para os clientes acompanharem os próprios processos.
 - ⚙️ Faço **automações em Python e JavaScript** para o dia a dia de um escritório jurídico.
@@ -11,7 +11,7 @@ Desenvolvo **apps e automações que tiram trabalho repetitivo das pessoas**. Ho
 
 ## ⭐ Projeto em destaque
 
-### [Tayah Associado: app de acompanhamento de processos](https://github.com/mikecosta2704-code/tayah-associado-portfolio)
+### [App de acompanhamento de processos judiciais](https://github.com/mikecosta2704-code/tayah-associado-portfolio)
 
 App Android e web para associados militares verem em que etapa está cada processo, com a explicação de cada andamento em linguagem simples, aviso no celular e documentos em PDF.
 
