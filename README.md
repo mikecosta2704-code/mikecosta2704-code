@@ -29,13 +29,13 @@ App Android e web para associados militares verem em que etapa está cada proces
 
 | Projeto | O que resolve | Como |
 |---|---|---|
-| **Compressor de PDF para o PJe** | O PJe recusa arquivos pesados, e a equipe perdia tempo comprimindo e dividindo PDFs na mão. | Programa `.exe` que roda sozinho em cada computador e vigia uma pasta: é só arrastar o PDF que ele comprime e, se precisar, fatia em partes de até 3 MB. Funciona offline e sem instalar nada. `Python` `PyInstaller` |
+| **[Compressor de PDF para o PJe](https://github.com/mikecosta2704-code/compressor-pdf-pje)** 📂 código aberto | O PJe recusa arquivos pesados, e a equipe perdia tempo comprimindo e dividindo PDFs na mão. | Programa `.exe` que roda sozinho em cada computador e vigia uma pasta: é só arrastar o PDF que ele comprime e, se precisar, fatia em partes de até 3 MB. Funciona offline e sem instalar nada. `Python` `PyInstaller` |
 | **Portal interno + gerador de documentos** | Procurações e declarações eram preenchidas à mão, com risco de erro em nome e CPF. | Página que gera o Word pronto a partir de um formulário, com validação de CPF, data por extenso e concordância de gênero (portador/portadora). Roda no navegador, sem servidor. `JavaScript` `docxtemplater` |
 | **Planilha de contatos completada com IA** | Uma planilha com mais de mil clientes tinha centenas de cadastros incompletos. | Script que lê os documentos de cada cliente com o **Gemini**, preenche só as células vazias, confere se o documento é da pessoa certa e gera um relatório em PDF do que foi feito. Roda sozinho duas vezes por dia. `Python` `Gemini API` `SharePoint` |
 
 Também estudei integrações com o Astrea, a Suri (chatbot de WhatsApp) e o Slack para avisos automáticos de prazos e atendimento.
 
-> O código dessas ferramentas é do escritório e fica privado. Aqui descrevo o que fiz e como. Nenhum dado de cliente é publicado.
+> O **Compressor de PDF** tem o código aberto, com testes automáticos. As outras ferramentas são do escritório e ficam privadas: aqui descrevo o que fiz e como. Nenhum dado de cliente é publicado.
 
 ---
 
